@@ -58,7 +58,7 @@ We believe in crafting tools and technologies that **inspire creativity, enable 
 <p align="center">
   <a href="mailto:weblyticscore@subhadipghosh.co.in"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://github.com/Weblytics-Core"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
-  <a href="https://linkedin.com/in/subhadotcom"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/company/Weblytics-Core"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://connect.subhadipghosh.co.in/"><img src="https://img.shields.io/badge/Website-1abc9c?style=for-the-badge&logo=google-chrome" /></a>
 </p>
 
