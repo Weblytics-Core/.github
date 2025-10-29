@@ -2,7 +2,6 @@
 <h3 align="center">⚡ Transforming Data • Powering the Web • Building the Future ⚡</h3>
 
 <p align="center">
-  <a href="https://github.com/Weblytics-Core"><img src="https://img.shields.io/github/followers/Weblytics-Core?label=Followers&style=for-the-badge&logo=github" /></a>
   <a href="https://github.com/Weblytics-Core"><img src="https://komarev.com/ghpvc/?username=Weblytics-Core&color=blueviolet&style=for-the-badge&label=Profile+Views" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Open%20Source%20❤-YES!-brightgreen?style=for-the-badge" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Innovation-🔥-orange?style=for-the-badge" /></a>
@@ -35,12 +34,12 @@ We specialize in:
 
 | Project | Description | Stack |
 |----------|--------------|-------|
-| 📈 **DataVizAnalyzer** | AI-powered analytics dashboard for interactive visualizations and automated insights | Python, Numpy, Pandas, Streamlit, seaborn, Scipy |
-| 🤖 **DiscordAiHelper** | Modular Discord bot with a Flask-based web control panel for community automation and integrations | Python, Flask, Discord API |
-| 📝 **DjangoBlogHub** | Content management platform with real-time feeds, SEO features and analytics dashboard | Python, Django, HTML, CSS |
-| <span style="white-space:nowrap">🔎&nbsp;**LinkedInJobScraper**</span> | Automated LinkedIn scraping + ETL pipeline for recruiting insights and job analytics | Python, Django, PostgreSQL |
-| 💹 **Stockanalysis** | Quantitative stock analysis with indicators, backtesting and interactive dashboards | Python, Numpy, Pandas, Plotly, Streamlit |
-| 🌦️ **WeatherAnalytics** | Weather data ingestion, forecasting models and interactive visualizations | Python, Numpy, Pandas, Plotly |
+| 📈 **DataVizAnalyzer** | AI-powered analytics dashboard for interactive visualizations and automated insights | Python, Numpy, Pandas, Streamlit, seaborn, Scipy, matplotlib |
+| 🤖 **DiscordAiHelper** | Modular Discord bot with a Flask-based web control panel for community automation and integrations | Python, Flask, Discord API, Gunicorn, SQLAlchemy |
+| 📝 **FlaskBlogHub** | Content management platform with real-time feeds, SEO features and analytics dashboard | Python, Flask, HTML, CSS, Gunicorn, psycopg2-binary, flask-sqlalchemy |
+| <span style="white-space:nowrap">🔎&nbsp;**LinkedInJobScraper**</span> | Automated LinkedIn scraping + ETL pipeline for recruiting insights and job analytics | Python, Flask, PostgreSQL, Selenium, beautifulsoup4, Gunicorn |
+| 💹 **Stockanalysis** | Quantitative stock analysis with indicators, backtesting and interactive dashboards | Python, Numpy, Pandas, Plotly, Streamlit, yfinance |
+| 🌦️ **WeatherAnalytics** | Weather data ingestion, forecasting models and interactive visualizations | Python, Numpy, Pandas, Plotly, Streamlit |
 | 🐍 **PythonEditor** | Lightweight in-browser Python editor with live preview, syntax highlighting and export | HTML, CSS, JavaScript |
 
 ---
